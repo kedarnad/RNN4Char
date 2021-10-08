@@ -11,3 +11,11 @@ If you want to run through this project, you can follow the following steps:
 
 Outputs and Observations:
 You can have a look at the Outputs in the OutputsAndObservations directory:
+
+The best outputs observed for this algorithm is as below:
+
+
+
+The Overall model architecture can be visualized as illustrated in the diagram below:
+
+
